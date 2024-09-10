@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering student at A
 - 📫 You can reach me via email at yberrakouan.lol@gmail.com.
 
 ## Technologies and Tools
-- Languages:  JavaScript
+- Languages:  JavaScript, Html, Css
 - Frameworks:  React.js
 - Databases: MySQL, MongoDB
 - Tools: Git, Docker, VS Code
