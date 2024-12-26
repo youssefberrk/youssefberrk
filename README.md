@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering student at A
 Feel free to explore my repositories to see more of my work!
 
 ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/youssef-berrakouan-4a0936282/)
+- [LinkedIn](https://www.linkedin.com/in/youssef-berrakouan)
 - [Twitter](https://twitter.com/berrak_Ucef)
 
 ## Thank You for Visiting!
