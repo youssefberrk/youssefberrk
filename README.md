@@ -2,28 +2,13 @@
 
 # Hi there! 👋 I'm Youssef Berrak
 
-Welcome to my GitHub profile! I'm a passionate Software Engineering student at ALX, enthusiastic about coding, learning new technologies, and building cool projects.
-
-## About Me
-- 🎓 Currently pursuing a degree in Software Engineering at ALX.
-- 💻 I'm passionate about software development, algorithms, and problem-solving.
-- 🌱 I'm constantly learning and exploring new technologies to enhance my skills.
-- 💼 Open to internships and opportunities in software development.
-- 📫 You can reach me via email at yberrakouan.lol@gmail.com.
-
-## Technologies and Tools
-- Languages:  JavaScript, Html, Css
-- Frameworks:  React.js
-- Databases: MySQL, MongoDB
-- Tools: Git, Docker, VS Code
+Welcome to my GitHub profile! I'm a passionate Software Engineering student , enthusiastic about coding, learning new technologies, and building cool projects.
 
 
-Feel free to explore my repositories to see more of my work!
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/youssef-berrakouan)
 - [Twitter](https://twitter.com/berrak_Ucef)
 
-## Thank You for Visiting!
-Thank you for stopping by! Feel free to connect with me and explore my projects. Let's collaborate and build something awesome together!
+
 
